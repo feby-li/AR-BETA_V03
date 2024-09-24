@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const modelViewer = document.getElementById('model-viewer');
     const buttonLoad = document.getElementById('button-load');
     const lazyLoad = document.getElementById('lazy-load');
-    // const arButton = document.getElementById('ar-button');
+    // const arButton = document.getElementById('ar-button'); --
 
     let currentIndex = -1;
 
